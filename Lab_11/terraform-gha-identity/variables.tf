@@ -11,7 +11,7 @@ variable "prefix" {
 variable "location" {
   description = "Region Azure"
   type        = string
-  default     = "polandcentral"
+  default     = "swedencentral"
 }
 
 variable "github_org" {
